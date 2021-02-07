@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Michael Shieh's Digital Resume
+
+### Michael (Hau-an) Shieh
 
 You can use the [editor on GitHub](https://github.com/mikesh13/digital-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
