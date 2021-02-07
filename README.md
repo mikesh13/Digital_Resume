@@ -1,6 +1,6 @@
 ## Michael Shieh's Digital Resume
 
-### Michael (Hau-an) Shieh
+# Michael (Hau-an) Shieh
 
 You can use the [editor on GitHub](https://github.com/mikesh13/digital-resume/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
