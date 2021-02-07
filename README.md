@@ -2,7 +2,7 @@
 
 # Michael (Hau-an) Shieh
 
-I am a data scientist who is curious about things I don't know yet, even if they are not relevant most of the time. I am excited to share my background and experiences with you. Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/mikesh13), or send me an [email](mailto:mikehash8382@gmail.com):email:
+I am a data scientist who is curious about things I don't know yet, even if they are not relevant most of the time. I am excited to share my background and experiences with you. Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/mikesh13), or send me an [:email:](mailto:mikehash8382@gmail.com)
 
 
 You can use the [editor on GitHub](https://github.com/mikesh13/digital-resume/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
