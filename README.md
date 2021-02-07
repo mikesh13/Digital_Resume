@@ -1,6 +1,6 @@
 ## Michael Shieh's Digital Resume
 
-# Michael (Hau-an) Shieh
+# Michael (Hau-an) Shieh ![Me](https://github.com/mikesh13/Digital_Resume/blob/master/104301175_3630364463647265_3318919734064020713_o.jpg)
 
 I am a data scientist who is curious about things I don't know yet, even if they are not relevant most of the time. I am excited to share my background and experiences with you. Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/mikesh13), or send me an [email](mailto:mikehash8382@gmail.com) :email:
 
@@ -10,6 +10,8 @@ I am a data scientist who is curious about things I don't know yet, even if they
 I recently graduated from the **University of Washington** with a **Master's degree in Industrial Engineering**. Inspired by how data transform players and teams in sports industries, I stepped into data science to try to understand the magic data could create. To summarize my previous experiences, I've done researches and projects on stock markets prediction, human behaviors analysis, sports analytics, etc. 
 
 I'm proficient in data modeling, processing, and analyzing using both Python and R. My general interest within data science is in product analytics, in which I would utilize machine learning techniques to analyze product data or customers' feedbacks to gain insights on how to improve the product, but I am open to any other type of opportunities. Curiosity might have killed the cat, but definitely not me.
+
+[My Resume](https://github.com/mikesh13/Digital_Resume/blob/master/MIchael_Shieh_Resume_DS.pdf)
 
 ```markdown
 Syntax highlighted code block
