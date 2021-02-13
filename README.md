@@ -13,6 +13,21 @@ I'm proficient in data modeling, processing, and analyzing using both Python and
 
 [My Resume](https://github.com/mikesh13/Digital_Resume/MIchael_Shieh_Resume_DS.pdf)
 
+## My Skills
+### Data Analytics
+> - **Machine Learning**: Regressions, Classifications, Clustering
+> - **Statistics**: Hypothesis Testing, Confidence Interval, Monte Carlo Methods, ANOVA, Causal Inferences
+> - **Design of Experiments**: A/B Testing, Factorial Experiment
+### Programming
+> - **Proficient** with Python, R, and SQL
+> - **Familiar** with Spark, PHP, HTML, and C++
+> - **Tools**: Jupyter notebook, Databricks, Docker, and RStudio
+> - **Data Science Library**: Pandas, NumPy, SciPy, Scikit-Learn, tensorflow, dplyr, tidyverse, etc.
+### Communication
+> I am good at becoming the **bridge of communication** between two groups of people and excel at presentations. 
+> - As a former TA, many times I initiated conversations with students to collect feedback on experiences in class. I would then had a discussion with the instructors to talk about potential adjustments
+> - After I built the database and the software to simplify processes for my department during my last internship, I hosted a lecture to teach my colleagues who have little technical backgrounds on how to access the database and how to use the software I wrote.
+
 ## **Education**
 
 ### University of Washington 
@@ -23,39 +38,38 @@ I'm proficient in data modeling, processing, and analyzing using both Python and
 
 
 ### National Cheng Kung University
-> Tainan, Taiwan, Sep. 2012 ~ June 2016\
+> Tainan, Taiwan, Sep. 2012 ~ Jun. 2016\
 > Bachelor of Science in Management Science.
 > - **Research Topic**: Comparisons Between Regular and Economical Screening Processes Using Simulation Methods
 > - **Relevent Courseworks**: Applied Statistics, Operations Research, Decision-making Methods, Supply Chain Management System, Human Factor Enigneering, Engineering Economics
 
-```markdown
-### **Education**
 
-# Header 1
-## Header 2
-### Header 3
+## **Experiences**
 
-- Bulleted
-- List
+### Golden Financial Exploration Association
+> **Data Analyst**, Sep. 2020 ~ Current\
+> Bellevue, WA, United States
+> - Built and managed a centralized MySQL database to combine data from multiple spreadsheets for easier access using queries 
+> - Mentor and teach other colleagues SQL and how to use the database with a data pipeline I built with Python to import and export data
+> - Utilized data to select and invite potential participants to return to our new events, which resulted in 60% increase in number of participants
+> - Provided statistical consultation for analyzing, modeling, and predicting trends using the feedback collected from event participants
 
-1. Numbered
-2. List
+> **Data Analyst Intern** Jun. 2020 ~ Aug. 2020\
+> Bellevue, WA, United States
+> - Analyzed and visualized data weekly to present insights with internal stakeholders to understand our audiences by events and over time
+> - Modified survey questions that resulted in responses with better quality to simplify the subsequent data processing
 
-**Bold** and _Italic_ and `Code` text
+### University of Washington
+> **Teaching Assistant**, Jan. 2019 ~ Mar. 2020\
+> Seattle, WA, United States
+> - Probability and Statistics for Engineers (1 quarter); Manufacturing Scheduling and Inventory (1 quarter); Simulation (2 quarters)
+> - Improved students’ performances by initiating conversations with students to collected feedbacks regularly to help instructors adjust materials,
+pace in classes, etc.
 
-[Link](url) and ![Image](104301175_3630364463647265_3318919734064020713_o.jpg)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikesh13/Digital-Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-You can use the [editor on GitHub](https://github.com/mikesh13/Digital-Resume/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Institute of Information Science, Academia Sinica
+> **Research Assistant**, Jan. 2018 ~ Jul. 2018\
+> Taipei, Taiwan
+> - Developed investment strategies and yielded 50% more return compared to historical average return annually
+> - Processed trust fund dataset (~1M rows) to identify which funds perform better regardless of market performances using regression models to
+apply Capital Asset Pricing Model (CAPM); S&P 500 dataset to predict stock market performances
+> - Collaborated with fellow researchers by preparing data for research projects, reviewing progress, and exchanging ideas
