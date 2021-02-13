@@ -14,15 +14,18 @@ I'm proficient in data modeling, processing, and analyzing using both Python and
 [My Resume](https://github.com/mikesh13/Digital_Resume/MIchael_Shieh_Resume_DS.pdf)
 
 ## My Skills
+
 ### Data Analytics
 > - **Machine Learning**: Regressions, Classifications, Clustering
 > - **Statistics**: Hypothesis Testing, Confidence Interval, Monte Carlo Methods, ANOVA, Causal Inferences
 > - **Design of Experiments**: A/B Testing, Factorial Experiment
+
 ### Programming
 > - **Proficient** with Python, R, and SQL
 > - **Familiar** with Spark, PHP, HTML, and C++
 > - **Tools**: Jupyter notebook, Databricks, Docker, and RStudio
 > - **Data Science Library**: Pandas, NumPy, SciPy, Scikit-Learn, tensorflow, dplyr, tidyverse, etc.
+
 ### Communication
 > I am good at becoming the **bridge of communication** between two groups of people and excel at presentations. 
 > - As a former TA, many times I initiated conversations with students to collect feedback on experiences in class. I would then had a discussion with the instructors to talk about potential adjustments
