@@ -20,11 +20,13 @@ I'm proficient in data modeling, processing, and analyzing using both Python and
 > - **Statistics**: Hypothesis Testing, Confidence Interval, Monte Carlo Methods, ANOVA, Causal Inferences
 > - **Design of Experiments**: A/B Testing, Factorial Experiment
 
+
 ### Programming
 > - **Proficient** with Python, R, and SQL
 > - **Familiar** with Spark, PHP, HTML, and C++
 > - **Tools**: Jupyter notebook, Databricks, Docker, and RStudio
 > - **Data Science Library**: Pandas, NumPy, SciPy, Scikit-Learn, tensorflow, dplyr, tidyverse, etc.
+
 
 ### Communication
 > I am good at becoming the **bridge of communication** between two groups of people and excel at presentations. 
