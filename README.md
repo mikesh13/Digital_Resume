@@ -19,16 +19,16 @@ I'm proficient in data modeling, processing, and analyzing using both Python and
 > Seattle, WA, United States, Sep. 2018 ~ Aug. 2020
 
 > Master of Science in Industrial Engineering
-> - Research Topic: Security Update Decision Making
-> - Relevent Courseworks: Data Analytics, Data Programming, Inferential Data Analytics, Statistical Learning, Design of Experiments, Probability and Random Processed, Human Factor Engineering, Healthcare Modeling, Virtual Interface Technology.
+> - **Research Topic**: Security Update Decision Making
+> - **Relevent Courseworks**: Data Analytics, Data Programming, Inferential Data Analytics, Statistical Learning, Design of Experiments, Probability and Random Processed, Human Factor Engineering, Healthcare Modeling, Virtual Interface Technology.
 
 
 ### National Cheng Kung University
 > Tainan, Taiwan, Sep. 2012 ~ June 2016
 
 > Bachelor of Science in Management Science.
-> - Research Topic: Comparisons Between Regular and Economical Screening Processes Using Simulation Methods
-> - Relevent Courseworks: Applied Statistics, Operations Research, Decision-making Methods, Supply Chain Management System, Human Factor Enigneering, Engineering Economics
+> - **Research Topic**: Comparisons Between Regular and Economical Screening Processes Using Simulation Methods
+> - **Relevent Courseworks**: Applied Statistics, Operations Research, Decision-making Methods, Supply Chain Management System, Human Factor Enigneering, Engineering Economics
 
 ```markdown
 ### **Education**
